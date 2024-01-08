@@ -7,7 +7,7 @@ and the number of false positive results.
 2. These are the preliminary searches performed in Medline to check that a search-string returned the same number 
 of results as single-search-term searches.
 
-3a. An Excel workbook with the search-terms that we underpinned the searches performed for our scoping review.
+3a. An Excel workbook with the search-terms that underpinned the searches performed for our scoping review.
 
 3b. An Excel workbook with the Python generated search-strings that we used for our scoping review.
 
