@@ -15,15 +15,15 @@ of results as single-search-term searches.
 
 4b. An Excel workbook with an example EndNote 20 output with formatting for readability applied using Python.
 
-5. Excel workbooks containing the search-string results for each respective database search. 
-The bracketted numbers in the worksheet name are total rows and columns.
+5. Excel workbooks containing the search-string results for each respective database search.
 
-6. An Excel workbook with:
+6. An Excel workbook with (the bracketted numbers in the worksheet name are rows and columns):
  - all database results combined: "all_results (1514,7)"
  - after deduplication: "final_deduplication (777, 8)"
  - after animal and paediatric filters: "electronic_filt (636, 8)"
  - after abstract screening: "abstract_screened (94,8) 
  - after full text screening: "fulltext_screened (61, 10)
+   
 
 NOTE:
 The Python notebooks require access to multiple of these Excel workbooks.  For the Python notebooks to run
