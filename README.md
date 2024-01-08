@@ -13,7 +13,7 @@ of results as single-search-term searches.
 
 4a. An Excel workbook with an example CSV output that was exported from EndNote 20.
 
-4b. An Excel workbook with an example CSV EndNote 20 output with formatting for readability applied using Python.
+4b. An Excel workbook with an example EndNote 20 output with formatting for readability applied using Python.
 
 5. Excel workbooks containing the search-string results for each respective database search. 
 The bracketted numbers in the worksheet name are total rows and columns.
